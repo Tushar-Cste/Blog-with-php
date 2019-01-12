@@ -1,0 +1,136 @@
+/*green*/
+	.headersection {
+	    background: #007000 none repeat scroll 0 0;
+	    
+	}
+	.icon a {
+
+	    background: #2E9E2E none repeat scroll 0 0;
+	}
+	.searchbtn input[type="text"] {
+
+	    border: 1px solid #138313;
+	    background: #4CBC4C;
+
+	}
+	.searchbtn input[type="submit"] {
+
+    border: 1px solid #004B00;
+	}
+	.searchbtn input[type="submit"]:hover {
+
+    	background: #368236 none repeat scroll 0 0;
+    	border: 1px solid #004B00;
+	}
+	input[type="submit"] {
+
+    	background: #368236 none repeat scroll 0 0;
+    	border: 1px solid #004B00;
+	}
+
+	.navsection {
+    	background: none repeat scroll 0 0 #4CBC4C;
+    	
+	}
+
+	.navsection ul li {
+	    border-left: 1px solid #4CBC4C;
+	    border-right: 1px solid #004B00;
+	}
+	.navsection ul li:first-child{border-left: 0px solid #4CBC4C;}
+	.navsection ul li:last-child{border-right: 0px solid #004B00;}
+	
+	.contentsection {
+    
+    border: 1px solid #368236;
+    
+}
+	.samepost h2 a {
+	    color: #007000;
+	}
+	.maincontent {
+
+    background: #B6FFB6 none repeat scroll 0 0;
+    border: 1px solid #5CCC5C;
+}
+.samepost h2, .about h2 {
+
+    border-bottom: 2px solid #A2EBA2;
+    color:#007000 }
+
+    .samepost img {
+    
+    border: 1px solid #2E9E2E;
+    
+}
+
+.readmore a {
+    background: #B6FFB6 none repeat scroll 0 0;
+    border: 1px solid #2E9E2E;
+    color: #007000;
+}
+
+.readmore a:hover{color:#2E9E2E;}
+
+.pagination a {
+    color: #333;
+    border: 1px solid #2E9E2E;
+    background: #007000;
+}
+
+.sidebar {
+    background: #B6FFB6 none repeat scroll 0 0;
+    border: 1px solid #5CCC5C;
+}
+
+.samesidebar h2 {
+    background: #6AA26A none repeat scroll 0 0;
+    border-bottom: 2px solid #007000;
+    color: #333;
+}
+
+.samesidebar ul li {
+    border-bottom: 1px dashed #4CBC4C;
+}
+
+.samesidebar ul li a {
+    color: #4CBC4C;
+}
+
+.popular h3 {
+    border-bottom: 1px dashed #4CBC4C;
+}
+
+.popular img {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #2E9E2E;
+   }
+
+.footersection {
+    
+    background: #007000;
+}
+
+.footermenu ul li a {
+    color: #4CBC4C;
+}
+
+.about img {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #2E9E2E;
+ }
+
+ .relatedpost h2 {
+    background: #6AA26A none repeat scroll 0 0;
+    border-bottom: 2px solid #007000 !important;
+    color: #000 !important;
+ }
+
+ input[type="text"], input[type="email"] {
+    border: 1px solid #6AA26A;
+    
+}
+
+textarea {
+    border: 1px solid #6AA26A;
+}
